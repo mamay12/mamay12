@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m junior fullstack developer which working in tentonteam :) AngularJs + .Net 6
+I’m fullstack developer which working in tentonteam :) AngularJs + .Net 7
 
 
 ## 🌐 Socials:
